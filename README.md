@@ -41,7 +41,7 @@ Built with **Node.js**, **Express.js**, and **MongoDB** for modern full-stack de
 
 ## 🎥 Project Demo
 
-<video src="URL%20Shortener%20Demo.mp4" controls width="600"></video>
+![Demo GIF](URLShortener.gif)
 
 > A short demo showcasing the clean UI, URL shortening, redirection, and click count analytics in action.
 
